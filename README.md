@@ -1,15 +1,13 @@
-<h1 align="center">Red Light, Green Light</h1>
-
-<a href="https://en.wikipedia.org/wiki/Squid_Game#/media/File:Squid_Game_logo.png" target="_blank">
-<center>
+<p align="center">
+<a href="https://www.netflix.com/title/81040344" target="_blank">
 <img
     src="https://upload.wikimedia.org/wikipedia/commons/4/40/Squid_Game_logo.png"
-    alt="The English language logo for Squid Game. (click to see attributions)"
+    alt="The English language logo for Squid Game."
     width="500px" />
 </a>
-</center>
+</p>
 
----
+<h1 align="center">Red Light, Green Light</h1>
 
 ![https://github.com/cedrickchee/squidgame/actions](https://github.com/cedrickchee/squidgame/workflows/CI/badge.svg)
 
